@@ -1,2 +1,2 @@
-# AdvancedDataStructures
+# Advanced Data Structures
 Trees
