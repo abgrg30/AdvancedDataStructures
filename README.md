@@ -1,2 +1,3 @@
 # Advanced Data Structures
-Trees
+* Trees
+* Strings
