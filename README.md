@@ -1,2 +1,0 @@
-# AdvancedDataStructures
-Practice codes
